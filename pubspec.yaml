@@ -1,0 +1,11 @@
+name: crispy_analysis
+version: 1.0.0
+description: Lint rules for Dart and Flutter used at CrispyBacon SRL.
+repository: https://github.com/crispybaconsrl/crispy_analysis
+issue_tracker: https://github.com/crispybaconsrl/crispy_analysis/issues
+homepage: https://github.com/crispybaconsrl/crispy_analysis
+documentation: https://github.com/crispybaconsrl/crispy_analysis
+topics: [lints, analyzer, analysis]
+
+environment:
+  sdk: ">=3.0.0 <4.0.0"
