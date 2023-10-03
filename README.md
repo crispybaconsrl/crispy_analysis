@@ -1,6 +1,7 @@
 # Crispy Analysis
 
 [![Crispy Bacon SRL][logo]][crispy_link]
+[![Crispy Bacon SRL][logo_dark]][crispy_link_dark]
 
 Maintained by [Riccardo Strazzer][maintainer_link]
 
@@ -83,7 +84,9 @@ To indicate your project is using `crispy_analysis` →
 [analysis_options_yaml]: https://github.com/crispybaconsrl/crispy_analysis/blob/main/lib/analysis_options.1.0.0.yaml
 [badge]: https://img.shields.io/badge/style-crispy_analysis-A1022B.svg
 [badge_link]: https://github.com/crispybaconsrl/crispy_analysis
-[logo]: ./assets/crispybacon_logo.png
+[logo_dark]: ./assets/crispybacon_logo_white.png#gh-dark-mode-only
+[logo]: ./assets/crispybacon_logo_black.png#gh-light-mode-only
 [crispy_bacon_link]: https://crispybacon.it
-[crispy_link]: https://crispybacon.it
+[crispy_link]: https://crispybacon.it#gh-light-mode-only
+[crispy_link_dark]: https://crispybacon.it#gh-dark-mode-only
 [maintainer_link]: https://github.com/crispy-riccardo
