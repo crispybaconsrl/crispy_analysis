@@ -31,7 +31,7 @@ include: package:crispy_analysis/analysis_options.yaml
 This will ensure you always use the latest version of the lints. If you wish to restrict the lint version, specify a version of `analysis_options.yaml` instead:
 
 ```yaml
-include: package:crispy_analysis/analysis_options.1.0.0.yaml
+include: package:crispy_analysis/analysis_options.1.0.2.yaml
 ```
 
 ## Suppressing Lints
@@ -81,7 +81,7 @@ To indicate your project is using `crispy_analysis` →
 [![style: crispy analysis](https://img.shields.io/badge/style-crispy_analysis-A1022B.svg)](https://github.com/crispybaconsrl/crispy_analysis)
 ```
 
-[analysis_options_yaml]: https://github.com/crispybaconsrl/crispy_analysis/blob/main/lib/analysis_options.1.0.1.yaml
+[analysis_options_yaml]: https://github.com/crispybaconsrl/crispy_analysis/blob/main/lib/analysis_options.1.0.2.yaml
 [badge]: https://img.shields.io/badge/style-crispy_analysis-A1022B.svg
 [badge_link]: https://github.com/crispybaconsrl/crispy_analysis
 [logo_dark]: ./assets/crispybacon_logo_white.png#gh-dark-mode-only

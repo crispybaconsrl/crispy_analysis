@@ -1,3 +1,8 @@
+# 1.0.2
+
+- refactor: removed
+  - [public_member_api_docs](https://dart.dev/tools/linter-rules/public_member_api_docs)
+
 # 1.0.1
 
 - feat: more files to exclude
